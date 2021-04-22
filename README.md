@@ -1,1 +1,0 @@
-# vect-coding-challenge
